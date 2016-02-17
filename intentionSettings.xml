@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Strings/Copy String Concatenation Text to the Clipboard" />
+    <ignoreAction name="Groovy/Other/Copy string concatenation text to clipboard" />
+  </component>
+</application>

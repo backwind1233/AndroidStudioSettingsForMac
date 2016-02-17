@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/plato1233/Git/androidNova/android-nova-wed/src/main/java/com/dianping/wed/weddingfeast/activity/WeddingShopPhotoGalleryActivity.java'" />
+    <option name="defaultScopeName" value="File '/Users/plato1233/Git/androidNova/android-nova-wed/src/main/java/com/dianping/wed/weddingfeast/activity/WeddingShopPhotoGalleryActivity.java'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/plato1233/Git/androidNova/android-nova-wed/src/main/java/com/dianping/wed/weddingfeast/activity/WeddingShopPhotoGalleryActivity.java'" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.gradle</mask>
+      <mask>*.XML</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
