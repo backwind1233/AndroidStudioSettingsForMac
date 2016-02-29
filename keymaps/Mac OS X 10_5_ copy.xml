@@ -9,7 +9,11 @@
     <keyboard-shortcut first-keystroke="meta alt DOWN" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
   <action id="NextOccurence" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ToggleBookmark" />
 </keymap>
