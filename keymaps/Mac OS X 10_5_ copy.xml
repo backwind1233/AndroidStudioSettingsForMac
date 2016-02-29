@@ -1,0 +1,15 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta alt DOWN" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="NextOccurence" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+</keymap>
